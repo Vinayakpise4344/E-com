@@ -1,0 +1,42 @@
+.Productdis{
+    display:flex;
+    gap:50px;
+    margin-top: 34px;
+    margin-bottom: 80px;
+}
+.productdis-left{
+    display: flex;
+    gap:17px;
+
+}
+.productdis-img-list{
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+
+}
+.productdis-img-list img{
+    height:113px;
+}
+.productdis-main-img{
+    width:586px;
+    height:550px;
+}
+.productdis-right{
+    display: flex;
+}
+.productdis-right-size1{
+    display: flex;
+    
+    gap:50px;
+}
+.productdis-right-size1 div{
+    border: 1px solid rgb(58, 55, 55);
+    padding: 6px ;
+    background-color: rgb(243, 235, 235);
+    font-weight:500;
+}
+.divproductdis-right-description button{
+    margin-top: 34px;
+    width:134px;
+}

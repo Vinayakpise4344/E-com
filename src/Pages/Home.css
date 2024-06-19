@@ -1,0 +1,39 @@
+
+.img1{
+    width:100%;
+    height: 800px;
+   
+    
+    display: flex;
+    background-color: rgb(246, 237, 251);
+  
+}
+.img{
+    width:250px;
+}
+.info{
+    width:40%;
+    margin-top: 11%;
+    margin-left: 6%;
+    color: rgb(19, 19, 20);
+    
+}
+.info h1{
+    font-family: sans-serif;
+    font-weight: 670;
+    font-size: 54px;
+
+}
+.info p{
+    font-size: 19px;
+    font-kerning: normal;
+}
+.img2 img{
+    
+     
+    margin-left: 20%;
+    margin-top: 11%;
+    border-radius: 270px;
+    
+   
+}
